@@ -23,8 +23,7 @@ end
 
 gem 'jquery-rails' 
 gem 'turbolinks'
-
+gem 'devise'
 group :production do
   gem 'pg'
 end
-gem devise
