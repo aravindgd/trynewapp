@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "1.9.1"
+ruby "1.9.3"
 gem 'rails'
 
 group :development do
