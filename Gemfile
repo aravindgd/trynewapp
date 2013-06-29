@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby "1.9.3"
 gem 'rails'
 
 group :development do
@@ -20,7 +20,8 @@ group :assets do
 end
 
 gem 'jquery-rails' 
-
+gem 'devise'
 group :production do
   gem 'pg'
 end
+
